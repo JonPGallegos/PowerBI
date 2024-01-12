@@ -1,6 +1,6 @@
 # PowerBI project
 ## Purpose
-This project allows the user to select two teams that the Power BI Report will then predict the score if those two teams played each other. 
+This project allows the user to select two teams that the Power BI Report will then predict the score as if those two teams played each other. 
 # Steps 
 You will need Power BI Desktop to view this project
 1. Select the NFL Prediction.pbix in this branch
